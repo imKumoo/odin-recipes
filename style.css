@@ -1,0 +1,39 @@
+* {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.header, 
+.title {
+    color: #EF233C;
+}
+
+.ols {
+    font-size: 100px;
+}
+
+.extra {
+    position: absolute;
+    top: 16%;
+    left: 100px;
+    font-size: 15px;
+    width: 80%;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.adb {
+    font-size: 50px;
+}
+
+.body1 {
+    background-color: #F2F0DF;
+}
+
+.body5 {
+    background-color: red;
+}
